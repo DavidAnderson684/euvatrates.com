@@ -54,6 +54,7 @@
         "DE": {
             "country": "Germany",
             "standard_rate": 16.00,
+            "standard_rate_by_time": { "0": 16.00, "1609462800": 19.00 },
             "reduced_rate": 5.00,
             "reduced_rate_alt": false,
             "super_reduced_rate": false,
