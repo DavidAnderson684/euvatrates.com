@@ -162,6 +162,7 @@
         "IE": {
             "country": "Ireland",
             "standard_rate": 23.00,
+            "standard_rate_by_time": { "0": 23.00, "1598922000": 21.00, "1614560400": 23.00 },
             "reduced_rate": 13.50,
             "reduced_rate_alt": 9.00,
             "super_reduced_rate": 4.80,
