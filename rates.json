@@ -213,7 +213,7 @@
             "country": "Slovenia",
             "standard_rate": 22.00,
             "reduced_rate": 9.50,
-            "reduced_rate_alt": false,
+            "reduced_rate_alt": 5.00,
             "super_reduced_rate": false,
             "parking_rate": false
         },
