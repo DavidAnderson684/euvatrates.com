@@ -206,7 +206,9 @@
         "RO": {
             "country": "Romania",
             "standard_rate": 21.00,
+            "standard_rate_by_time": { "0": 19.00, "1754002800": 21.00 },
             "reduced_rate": 11.00,
+            "reduced_rate_by_time": { "0": 9.00, "1754002800": 11.00 },
             "reduced_rate_alt": false,
             "super_reduced_rate": false,
             "parking_rate": false
