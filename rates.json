@@ -100,7 +100,8 @@
             "country": "Finland",
             "standard_rate": 25.50,
             "standard_rate_by_time": { "0": 24.00, "1725145200": 25.50 },
-            "reduced_rate": 14.00,
+            "reduced_rate": 13.50,
+            "reduced_rate_by_time": { "0": 14.00, "1767222000": 13.50 },
             "reduced_rate_alt": 10.00,
             "super_reduced_rate": false,
             "parking_rate": false
